@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.2/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_AlbaniaCheckCar.1072138705.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="AlbaniaCheckCar.csproj" t="IncludeRecursive" />
+      <e p="AlbaniaCheckCar.sln" t="IncludeFlat" />
+      <e p="app.db" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Areas" t="Include">
+        <e p="Identity" t="Include">
+          <e p="IdentityHostingStartup.cs" t="Include" />
+          <e p="Pages" t="Include">
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Account" t="Include">
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="AccessDenied.cshtml" t="Include" />
+              <e p="AccessDenied.cshtml.cs" t="Include" />
+              <e p="ConfirmEmail.cshtml" t="Include" />
+              <e p="ConfirmEmail.cshtml.cs" t="Include" />
+              <e p="ExternalLogin.cshtml" t="Include" />
+              <e p="ExternalLogin.cshtml.cs" t="Include" />
+              <e p="ForgotPassword.cshtml" t="Include" />
+              <e p="ForgotPassword.cshtml.cs" t="Include" />
+              <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+              <e p="ForgotPasswordConfirmation.cshtml.cs" t="Include" />
+              <e p="Lockout.cshtml" t="Include" />
+              <e p="Lockout.cshtml.cs" t="Include" />
+              <e p="Login.cshtml" t="Include" />
+              <e p="Login.cshtml.cs" t="Include" />
+              <e p="LoginWith2fa.cshtml" t="Include" />
+              <e p="LoginWith2fa.cshtml.cs" t="Include" />
+              <e p="LoginWithRecoveryCode.cshtml" t="Include" />
+              <e p="LoginWithRecoveryCode.cshtml.cs" t="Include" />
+              <e p="Logout.cshtml" t="Include" />
+              <e p="Logout.cshtml.cs" t="Include" />
+              <e p="Manage" t="Include">
+                <e p="_Layout.cshtml" t="Include" />
+                <e p="_ManageNav.cshtml" t="Include" />
+                <e p="_StatusMessage.cshtml" t="Include" />
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="ChangePassword.cshtml" t="Include" />
+                <e p="ChangePassword.cshtml.cs" t="Include" />
+                <e p="DeletePersonalData.cshtml" t="Include" />
+                <e p="DeletePersonalData.cshtml.cs" t="Include" />
+                <e p="Disable2fa.cshtml" t="Include" />
+                <e p="Disable2fa.cshtml.cs" t="Include" />
+                <e p="DownloadPersonalData.cshtml" t="Include" />
+                <e p="DownloadPersonalData.cshtml.cs" t="Include" />
+                <e p="EnableAuthenticator.cshtml" t="Include" />
+                <e p="EnableAuthenticator.cshtml.cs" t="Include" />
+                <e p="ExternalLogins.cshtml" t="Include" />
+                <e p="ExternalLogins.cshtml.cs" t="Include" />
+                <e p="GenerateRecoveryCodes.cshtml" t="Include" />
+                <e p="GenerateRecoveryCodes.cshtml.cs" t="Include" />
+                <e p="Index.cshtml" t="Include" />
+                <e p="Index.cshtml.cs" t="Include" />
+                <e p="ManageNavPages.cs" t="Include" />
+                <e p="PersonalData.cshtml" t="Include" />
+                <e p="PersonalData.cshtml.cs" t="Include" />
+                <e p="ResetAuthenticator.cshtml" t="Include" />
+                <e p="ResetAuthenticator.cshtml.cs" t="Include" />
+                <e p="SetPassword.cshtml" t="Include" />
+                <e p="SetPassword.cshtml.cs" t="Include" />
+                <e p="TwoFactorAuthentication.cshtml" t="Include" />
+                <e p="TwoFactorAuthentication.cshtml.cs" t="Include" />
+              </e>
+              <e p="Register.cshtml" t="Include" />
+              <e p="Register.cshtml.cs" t="Include" />
+              <e p="ResetPassword.cshtml" t="Include" />
+              <e p="ResetPassword.cshtml.cs" t="Include" />
+              <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+              <e p="ResetPasswordConfirmation.cshtml.cs" t="Include" />
+            </e>
+            <e p="Error.cshtml" t="Include" />
+            <e p="Error.cshtml.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ClientApp" t="Include">
+        <e p=".env" t="Include" />
+        <e p=".gitignore" t="Include" />
+        <e p="node_modules/@babel/parser" t="IncludeRecursive" />
+        <e p="node_modules/@babel/types" t="IncludeRecursive" />
+        <e p="node_modules/@jest/console" t="IncludeRecursive" />
+        <e p="node_modules/@jest/fake-timers" t="IncludeRecursive" />
+        <e p="node_modules/@jest/source-map" t="IncludeRecursive" />
+        <e p="node_modules/@jest/test-result" t="IncludeRecursive" />
+        <e p="node_modules/@jest/types" t="IncludeRecursive" />
+        <e p="node_modules/@types" t="IncludeRecursive">
+          <e p="babel__generator" t="IncludeRecursive" />
+          <e p="babel__template" t="IncludeRecursive" />
+          <e p="babel__traverse" t="IncludeRecursive" />
+          <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+          <e p="istanbul-lib-report" t="IncludeRecursive" />
+          <e p="yargs-parser" t="IncludeRecursive" />
+        </e>
+        <e p="node_modules/ajv" t="IncludeRecursive" />
+        <e p="node_modules/babel-eslint" t="IncludeRecursive" />
+        <e p="node_modules/babel-jest" t="IncludeRecursive" />
+        <e p="node_modules/bootstrap" t="IncludeRecursive" />
+        <e p="node_modules/chalk" t="IncludeRecursive" />
+        <e p="node_modules/cross-env" t="IncludeRecursive" />
+        <e p="node_modules/dotenv-expand" t="IncludeRecursive" />
+        <e p="node_modules/eslint" t="IncludeRecursive" />
+        <e p="node_modules/eslint-config-react-app" t="IncludeRecursive" />
+        <e p="node_modules/eslint-plugin-flowtype" t="IncludeRecursive" />
+        <e p="node_modules/eslint-plugin-import" t="IncludeRecursive" />
+        <e p="node_modules/eslint-plugin-jsx-a11y" t="IncludeRecursive" />
+        <e p="node_modules/eslint-plugin-react" t="IncludeRecursive" />
+        <e p="node_modules/fast-deep-equal" t="IncludeRecursive" />
+        <e p="node_modules/jest" t="IncludeRecursive" />
+        <e p="node_modules/jest-haste-map" t="IncludeRecursive" />
+        <e p="node_modules/jest-message-util" t="IncludeRecursive" />
+        <e p="node_modules/jest-mock" t="IncludeRecursive" />
+        <e p="node_modules/jest-resolve" t="IncludeRecursive" />
+        <e p="node_modules/jest-serializer" t="IncludeRecursive" />
+        <e p="node_modules/jest-util" t="IncludeRecursive" />
+        <e p="node_modules/jest-worker" t="IncludeRecursive" />
+        <e p="node_modules/jquery" t="IncludeRecursive" />
+        <e p="node_modules/merge" t="IncludeRecursive" />
+        <e p="node_modules/oidc-client" t="IncludeRecursive" />
+        <e p="node_modules/react" t="IncludeRecursive" />
+        <e p="node_modules/react-dom" t="IncludeRecursive" />
+        <e p="node_modules/react-router-bootstrap" t="IncludeRecursive" />
+        <e p="node_modules/react-router-dom" t="IncludeRecursive" />
+        <e p="node_modules/react-scripts" t="IncludeRecursive" />
+        <e p="node_modules/reactstrap" t="IncludeRecursive" />
+        <e p="node_modules/realpath-native" t="IncludeRecursive" />
+        <e p="node_modules/rimraf" t="IncludeRecursive" />
+        <e p="node_modules/source-map" t="IncludeRecursive" />
+        <e p="node_modules/uri-js" t="IncludeRecursive" />
+        <e p="node_modules/worker-farm" t="IncludeRecursive" />
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="public" t="Include">
+          <e p="favicon.ico" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="manifest.json" t="Include" />
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="src" t="Include">
+          <e p="App.js" t="Include" />
+          <e p="App.test.js" t="Include" />
+          <e p="components" t="Include">
+            <e p="api-authorization" t="Include">
+              <e p="ApiAuthorizationConstants.js" t="Include" />
+              <e p="ApiAuthorizationRoutes.js" t="Include" />
+              <e p="AuthorizeRoute.js" t="Include" />
+              <e p="AuthorizeService.js" t="Include" />
+              <e p="Login.js" t="Include" />
+              <e p="LoginMenu.js" t="Include" />
+              <e p="Logout.js" t="Include" />
+            </e>
+            <e p="Counter.js" t="Include" />
+            <e p="FetchData.js" t="Include" />
+            <e p="Home.js" t="Include" />
+            <e p="Layout.js" t="Include" />
+            <e p="NavMenu.css" t="Include" />
+            <e p="NavMenu.js" t="Include" />
+          </e>
+          <e p="custom.css" t="Include" />
+          <e p="index.js" t="Include" />
+          <e p="registerServiceWorker.js" t="Include" />
+          <e p="setupTests.js" t="Include" />
+        </e>
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="OidcConfigurationController.cs" t="Include" />
+        <e p="WeatherForecastController.cs" t="Include" />
+      </e>
+      <e p="Data" t="Include">
+        <e p="ApplicationDbContext.cs" t="Include" />
+      </e>
+      <e p="Dockerfile" t="Include" />
+      <e p="EmailSender" t="Include">
+        <e p="EmailSender.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20190825163415_InitialCreate.cs" t="Include" />
+        <e p="20190825163415_InitialCreate.Designer.cs" t="Include" />
+        <e p="ApplicationDbContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="ApplicationRole.cs" t="Include" />
+        <e p="ApplicationUser.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="AlbaniaCheckCar.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Pages" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Error.cshtml" t="Include" />
+        <e p="Error.cshtml.cs" t="Include" />
+        <e p="Shared" t="Include">
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_LoginPartial.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="ScaffoldingReadme.txt" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="WeatherForecast.cs" t="Include" />
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE" t="Include" />
+          </e>
+          <e p="jquery" t="Include">
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+            <e p="LICENSE.md" t="Include" />
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
